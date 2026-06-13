@@ -1,4 +1,4 @@
-<img src="images/logo.jpg" width="60" height="60"> 
+<img src="src/assets/logo.jpg" width="60" height="60"> 
 
 # Website of CODING CLUB, SATI
 
